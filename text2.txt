@@ -1,2 +1,3 @@
 cd C: to check for file in local disk it 
 cd git" git is the folder in which the text file is saved
+git add text.txt "text is the file name that has to be added to github"
