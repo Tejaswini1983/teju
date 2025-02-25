@@ -1,1 +1,2 @@
-cd C: to check for file in local disk 
+cd C: to check for file in local disk it 
+cd git" git is the folder in which the text file is saved
